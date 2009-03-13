@@ -241,15 +241,15 @@
     </group>
   </component>
   <component name="ProjectDetails">
-    <option name="projectName" value="IdeaPropertySorter" />
+    <option name="projectName" value="ideapropertysorterplugin" />
   </component>
   <component name="ProjectFileVersion" converted="true" />
   <component name="ProjectKey">
-    <option name="state" value="project:///Users/oliver/Coding/IdeaPropertySorter/IdeaPropertySorter.ipr" />
+    <option name="state" value="project:///Users/oliver/Coding/ideapropertysorterplugin/ideapropertysorterplugin.ipr" />
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IdeaPropertySorter.iml" filepath="$PROJECT_DIR$/IdeaPropertySorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ideapropertysorterplugin.iml" filepath="$PROJECT_DIR$/ideapropertysorterplugin.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="IDEA 9732" project-jdk-type="IDEA JDK">
@@ -278,7 +278,7 @@
     <option name="deletePackageOccurrences" value="true" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="" vcs="svn" />
   </component>
   <component name="WebServicesPlugin" addRequiredLibraries="true" />
 </project>
