@@ -1,8 +1,8 @@
 <idea-plugin version="2">
   <name>Property Sorter</name>
   <description>Sorts a property File in an Editor Window according to its keys.</description>
-  <version>0.2</version>
-  <vendor>maxheapsize.com</vendor>
+  <version>0.2.1</version>
+  <vendor url="http://code.google.com/p/ideapropertysorterplugin/" email="oliver.wehrens@gmail.com">maxheapsize.com</vendor>
   <idea-version since-build="8000"/>
 
   <application-components>
