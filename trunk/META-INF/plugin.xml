@@ -1,0 +1,29 @@
+<idea-plugin version="2">
+  <name>Property Sorter</name>
+  <description>Sorts a property File in an Editor Window according to its keys.</description>
+  <version>0.2</version>
+  <vendor>maxheapsize.com</vendor>
+  <idea-version since-build="8000"/>
+
+  <application-components>
+    <!-- Add your application components here -->
+      <component>
+          <implementation-class>net.wehrens.intellij.plugins.propertysorter.MessageWindowComponent</implementation-class>
+      </component>
+  </application-components>
+
+  <project-components>
+    <!-- Add your project components here -->
+  </project-components>
+
+  <actions>
+    <!-- Add your actions here -->
+      <action id="SortProperties2" class="net.wehrens.intellij.plugins.propertysorter.SortPropertiesAction" text="Sort Properties">
+          <add-to-group group-id="CodeMenu" anchor="after" relative-to-action="MoveStatementUp"/>
+      </action>
+  </actions>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+</idea-plugin>
