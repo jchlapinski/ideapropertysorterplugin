@@ -25,13 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ideapropertysorterplugin.zip" afterPath="$PROJECT_DIR$/ideapropertysorterplugin.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ideapropertysorterplugin.iws" afterPath="$PROJECT_DIR$/ideapropertysorterplugin.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverterTest.java" afterPath="$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverterTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java" afterPath="$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java" />
     </list>
-    <ignored path=".idea/workspace.xml" />
     <ignored path="ideapropertysorterplugin.iws" />
+    <ignored path=".idea/workspace.xml" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="Commander">
@@ -138,10 +135,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringPropertyConverter.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StringPropertyConverter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="57" selection-start="3342" selection-end="3342" vertical-scroll-proportion="1.34375">
+            <state line="60" column="21" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -174,10 +171,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.properties" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="test.properties" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+            <state line="7" column="20" selection-start="86" selection-end="86" vertical-scroll-proportion="0.11764706">
               <folding />
             </state>
           </provider>
@@ -352,17 +349,17 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.StringPropertyConverterTest.testMergeComments">
-    <tempConfiguration default="false" name="StringPropertyConverterTest.testMergeComments" type="TestNG" factoryName="TestNG" enabled="false" merge="false" runner="emma">
+  <component name="RunManager" selected="TestNG.net.wehrens.intellij.plugins.propertysorter">
+    <tempConfiguration default="false" name="net.wehrens.intellij.plugins.propertysorter" type="TestNG" factoryName="TestNG" enabled="false" merge="false" runner="emma">
       <module name="ideapropertysorterplugin" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="net.wehrens.intellij.plugins.propertysorter" />
-      <option name="MAIN_CLASS_NAME" value="net.wehrens.intellij.plugins.propertysorter.StringPropertyConverterTest" />
-      <option name="METHOD_NAME" value="testMergeComments" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -378,13 +375,7 @@
       <envs />
       <properties />
       <listeners />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55277" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method>
         <option name="Make" value="true" />
@@ -488,8 +479,8 @@
       </method>
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Plugin.SorterPlugin" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.StringPropertyConverterTest.testMergeComments" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.net.wehrens.intellij.plugins.propertysorter" />
+      <item index="1" class="java.lang.String" itemvalue="Plugin.SorterPlugin" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -556,10 +547,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5595596" order="0" side_tool="false" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32963446" sideWeight="0.0" order="0" side_tool="false" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.43343344" sideWeight="0.5" order="2" side_tool="false" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43343344" sideWeight="0.5" order="2" side_tool="false" />
       <window_info id="Graphical Navigator" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" />
       <window_info id="Time Tracker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" />
@@ -602,9 +593,30 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/PropertySorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/PropertySorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/SortPropertiesAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="100" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="24" selection-start="3203" selection-end="3203" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -630,37 +642,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/PropertySorterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="24" selection-start="3203" selection-end="3203" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/PropertySorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="57" selection-start="3342" selection-end="3342" vertical-scroll-proportion="1.34375">
+        <state line="60" column="21" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="20" selection-start="86" selection-end="86" vertical-scroll-proportion="0.11764706">
           <folding />
         </state>
       </provider>
