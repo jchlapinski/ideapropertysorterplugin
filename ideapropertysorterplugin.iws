@@ -25,11 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ideapropertysorterplugin.zip" afterPath="$PROJECT_DIR$/ideapropertysorterplugin.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ideapropertysorterplugin.iws" afterPath="$PROJECT_DIR$/ideapropertysorterplugin.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/plugin.xml" afterPath="$PROJECT_DIR$/META-INF/plugin.xml" />
     </list>
-    <ignored path="ideapropertysorterplugin.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="ideapropertysorterplugin.iws" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="Commander">
@@ -97,91 +98,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="ideapropertysorterplugin" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="PropertySorterTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/PropertySorterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PropertySorter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/PropertySorter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SortPropertiesAction.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/SortPropertiesAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="100" selection-start="1835" selection-end="1835" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringPropertyConverterTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="24" selection-start="3203" selection-end="3203" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringPropertyConverter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="21" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConvertException.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/ConvertException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessageWindowComponent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/MessageWindowComponent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugin.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="6" selection-start="899" selection-end="899" vertical-scroll-proportion="0.25210086">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -622,6 +538,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="21" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/ConvertException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.0">
@@ -636,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="21" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
@@ -652,7 +568,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="6" selection-start="899" selection-end="899" vertical-scroll-proportion="0.25210086">
+        <state line="52" column="0" selection-start="2047" selection-end="2047" vertical-scroll-proportion="0.8739496">
           <folding />
         </state>
       </provider>

@@ -1,4 +1,4 @@
-<idea-plugin version="2">
+<idea-plugin version="3" url="http://code.google.com/p/ideapropertysorterplugin/">
   <name>Property Sorter</name>
   <description><![CDATA[
     <p>Imagine you work with property files every day. The files are updated on different branches copied up to the trunk
@@ -12,14 +12,20 @@
   ]]></description>
 
   <change-notes><![CDATA[
-    <ul>Version 0.2.2
+    Version 0.3
+    <ul>
       <li>Comments above properties will now be preserved and not deleted.</li>
+    </ul>
+    Version 0.2
+    <ul>
+      <li>Initial Release.</li>
     </ul>
   ]]></change-notes>
 
-  <version>0.2.2</version>
 
-  <vendor url="http://code.google.com/p/ideapropertysorterplugin/" email="oliver.wehrens@gmail.com">maxheapsize.com</vendor>
+  <version>0.3</version>
+
+  <vendor url="http://maxheapsize.com" email="oliver.wehrens@gmail.com">Oliver Wehrens</vendor>
 
   <idea-version since-build="8000"/>
 
