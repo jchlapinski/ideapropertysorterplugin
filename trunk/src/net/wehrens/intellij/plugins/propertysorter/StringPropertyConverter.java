@@ -5,6 +5,7 @@ import java.util.*;
 public class StringPropertyConverter {
 
   public static final String ideaLineSeperator = "\n";
+  private final String COMMENTS_AT_THE_END = "";
 
   public Properties convertString(String stringToBeConverted) throws ConvertException {
 
@@ -80,6 +81,10 @@ public class StringPropertyConverter {
       result.append(line).append(ideaLineSeperator);
     }
 
+    if (commentsForProperties.containsKey(COMMENTS_AT_THE_END)) {
+      result.append(commentsForProperties.get(COMMENTS_AT_THE_END));
+    }
+
     return result.toString();
   }
 
@@ -108,6 +113,6 @@ public class StringPropertyConverter {
         return line;
       }
     }
-    return "";
+    return COMMENTS_AT_THE_END;
   }
 }

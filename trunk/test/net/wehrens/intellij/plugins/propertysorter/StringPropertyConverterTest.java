@@ -95,11 +95,13 @@ public class StringPropertyConverterTest {
   @Test
   public void testMergeComments() {
     String textWithCommentsAndNotSorted ="B=1" + ideaLineSeperator+
-                                         "#comment for A"+ ideaLineSeperator+"#comment 2 for A"+ideaLineSeperator+"A=2";
+                                         "#comment for A"+ ideaLineSeperator+"#comment 2 for A"+ideaLineSeperator+"A=2"+ideaLineSeperator+
+                                         "# last commment";
     String textWithoutCommentsAndSorted ="A=2" + ideaLineSeperator+"B=1";
 
     String expectedResult = "#comment for A"+ ideaLineSeperator+"#comment 2 for A"+ideaLineSeperator+"A=2"+ ideaLineSeperator+
-                            "B=1"+ ideaLineSeperator;
+                            "B=1"+ ideaLineSeperator+
+                            "# last commment"+ideaLineSeperator;
 
     String result = stringPropertyConverter.mergeComments(textWithoutCommentsAndSorted, textWithCommentsAndNotSorted);
 
