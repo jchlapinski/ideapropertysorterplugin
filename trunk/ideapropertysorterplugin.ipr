@@ -281,5 +281,8 @@
     <mapping directory="" vcs="svn" />
   </component>
   <component name="WebServicesPlugin" addRequiredLibraries="true" />
+  <component name="XcordionConfiguration">
+    <option name="xcordionBackingClassName" value="IdeapropertysorterpluginConcordionTestCase" />
+  </component>
 </project>
 
