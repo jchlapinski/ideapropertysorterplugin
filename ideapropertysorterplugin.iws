@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ideapropertysorterplugin.iws" afterPath="$PROJECT_DIR$/ideapropertysorterplugin.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/META-INF/plugin.xml" afterPath="$PROJECT_DIR$/META-INF/plugin.xml" />
     </list>
     <ignored path="ideapropertysorterplugin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -162,19 +163,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugin.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="plugin.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="16" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
+            <state line="15" column="6" selection-start="899" selection-end="899" vertical-scroll-proportion="0.25210086">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.properties" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test.properties" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="20" selection-start="86" selection-end="86" vertical-scroll-proportion="0.11764706">
+            <state line="7" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -339,7 +340,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="RunManagerConfig.showSettingsBeforeRunnig" value="false" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -635,13 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="16" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/net/wehrens/intellij/plugins/propertysorter/StringPropertyConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="21" selection-start="1698" selection-end="1698" vertical-scroll-proportion="0.0">
@@ -651,7 +645,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="20" selection-start="86" selection-end="86" vertical-scroll-proportion="0.11764706">
+        <state line="7" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="6" selection-start="899" selection-end="899" vertical-scroll-proportion="0.25210086">
           <folding />
         </state>
       </provider>
