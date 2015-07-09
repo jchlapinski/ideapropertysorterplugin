@@ -1,0 +1,5 @@
+Imagine you work with property files every day. The files are updated on different branches copied up to the trunk and merged down to new branches, sometimes even updated externally. I got a couple of times into not so funny merge conflicts since people did not sort the property files in the same way. To get around that I used an external tool to sort the files just before committing them.
+
+This plugin sort the property files inside IDEA. I took the easy approach to sort them in the editor window. Simply open a properties file and choose Code - Sort Properties. It detects if this is a real properties file (e.g. all lines do have a # at the start or do follow the pattern key=value) and sorts them. If things go boom you always can undo ;-).
+
+Check out my blog: [maxheapsize.com](http://maxheapsize.com)
